@@ -12,7 +12,7 @@ Daffodil International University
 
 contact:
 
-http://bit.ly/363RLc9
+https://marjuk-ahmed-siddiki.github.io/marjuk.github.io/
 
 
 linkedin:- https://www.linkedin.com/in/marjukahmed
